@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, Welcome !<br><br>This is Dhaivat [You can call me Exergic], I completed my masters in Big Data Analytics.<br>I build Full Stack Web Apps, Gen AI Apps, Blockchain and low level syatems.<br>I am a full time freelancer and love to work with startups && Businesses and help people to accelerate their business with technology<br>I have experienced of working on variety of Tech Stack e.g MERN, Next JS, Docker, Kubernetes, Python, Hugging Face, C++ and more<br>
+Hello, Welcome !<br><br>This is Dhaivat [You can call me Exergic], I completed my masters in Big Data Analytics.<br>I build Full Stack Web Apps, Gen AI Apps, Blockchain and low level syatems.<br>I am a full time freelancer and love to work with startups && Businesses and help people to accelerate their business with technology<br>I have experienced of working on variety of Tech Stack e.g MERN, Solana, Next JS, React, Docker, Kubernetes, Python, Hugging Face, LLM APIs, Rust<br>
 
 
 ## 🌐 Socials:
