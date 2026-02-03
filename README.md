@@ -3,8 +3,6 @@ Hello, Welcome! 👋
 <br>
 My name is Dhaivat, I build Full stack AI apps, Web Apps, Backend systems and Web3 solutions
 <br><br>
-
-<br><br>
 Feel free to connect with me for collaborations, AI solutions, or technical discussions — always open to sharing ideas and building together.
 
 
