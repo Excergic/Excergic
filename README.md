@@ -1,29 +1,9 @@
 # 💫 About Me:
 Hello, Welcome! 👋
 <br>
-My name is Dhaivat you can call me Exergic — I specialize in building AI-powered, scalable systems that combine Data Science, Machine Learning, Deep Learning, and Generative AI.
+My name is Dhaivat, I build Full stack AI apps, Web Apps, Backend systems and Web3 solutions
 <br><br>
-I’ve worked on a wide range of AI and MLOps projects, including RAG pipelines, AI Agents, LLM fine-tuning, and end-to-end model deployment on cloud platforms. My work bridges the gap between research-level AI and production-grade scalability.
-<br><br>
-I’m experienced in:
 
-Python, Rust
-
-LLMs (APIs & Fine-tuning)
-
-Retrieval-Augmented Generation (RAG)
-
-AI Agents and Workflow Automation
-
-Deep Learning & Machine Learning Frameworks (TensorFlow, PyTorch, Scikit-learn)
-
-ETL Pipelines & Data Engineering
-
-Cloud & Deployment (AWS – S3, Lambda, EC2, Docker, CI/CD)
-
-<br>
-
-I also develop robust backend systems for deploying AI products efficiently.
 <br><br>
 Feel free to connect with me for collaborations, AI solutions, or technical discussions — always open to sharing ideas and building together.
 
