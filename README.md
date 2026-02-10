@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello, Welcome! 👋
 <br>
-My name is Dhaivat, I build Full stack AI apps, Web Apps, Backend systems and Web3 solutions
+My name is Dhaivat, I help businesses to improve thier revenue/profit with their data and buidling AI/ML and Data science solutions. I build end to end systems for startups and enterprises.
 <br><br>
 Feel free to connect with me for collaborations, AI solutions, or technical discussions — always open to sharing ideas and building together.
 
