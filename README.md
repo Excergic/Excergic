@@ -1,18 +1,10 @@
-# 💫 About Me:
-Hello, Welcome! 👋
-<br>
-My name is Dhaivat, I help businesses to improve thier revenue/profit with their data and buidling AI/ML and Data science solutions. I build end to end systems for startups and enterprises.
-<br><br>
-Feel free to connect with me for collaborations, AI solutions, or technical discussions — always open to sharing ideas and building together.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhaivat-jambudia) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@dhaivat00) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhaivat.jambudia@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FFA500?style=for-the-badge&logo=chromadb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-CE412B?style=for-the-badge&logo=rust&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white) ![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-FF9900?style=for-the-badge&logo=amazonsagemaker&logoColor=white) ![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazon&logoColor=white) 
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Hi, May name is Dhaivat N Jambudia — an AI/ML Engineer who builds and ships RAG pipelines, ML models, MLOps systems, and AI agents that actually work in production instead of breaking the moment they hit real users.
+I made the pivot from Mechanical Engineering → Computer Science → AI/ML with one mindset that’s stayed constant: systems thinking. That engineering discipline is exactly why the RAG applications and agentic systems I deliver don’t hallucinate wildly or collapse under load.
+I’ve shipped:
+• Scalable enterprise RAG platforms that slashed information retrieval time and improved decision-making speed
+• LLM orchestration routers that intelligently pick the right model for every prompt
+• Long- and short-term memory systems for agents so they never forget critical user context
+• End-to-end Telegram-integrated AI agents for real clients
+What I’m obsessed with now: solving the #1 reason most AI agents fail in production — reliability. I combine core ML, GenAI, and agentic design so teams get systems that are fast, accurate, and actually usable at scale.
+If you’re building serious AI products and need an engineer who thinks in systems, ships production-first, and refuses to accept “it works in the notebook” as good enough 
+Let’s connect.
